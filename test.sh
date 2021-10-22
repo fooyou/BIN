@@ -6,7 +6,7 @@ arg="
     --gt_path     ./Adobe_240fps_dataset/test
     --output_path ./Adobe_240fps_dataset/
     --time_step 0.5
-    --gpu_id 2
+    --gpu_id 0
     --opt ./options/train/train_adobe_stage4.yml
     "
 
